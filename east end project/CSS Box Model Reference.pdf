@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>East End Installers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>East End Installers</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>Specializing in window and door replacement to enhance your home.</p>
+            <!-- Image gallery or service details can be added here -->
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>With over 20 years of experience, East End Installers are your trusted experts for window and door
+                installations.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch for a quote or consultation.</p>
+            <!-- Contact form or details here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 East End Installers. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
